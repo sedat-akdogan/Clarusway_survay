@@ -2,7 +2,6 @@
 body {
   font-family: comic-sns ;
   font-size: 1rem;
-  align: center;
   font-weight: 200;
   line-height: 1.5;
   color: var(--color-white);
@@ -11,7 +10,7 @@ body {
 
 h1 {
   font-weight: 400;
-  color: whiteblue;
+  color: red;
   font-size: 75px;
   line-height: 1.2;
 }
@@ -38,9 +37,9 @@ button,
 select,
 textarea {
   margin: 1;
-  font-family: inherit;
-  font-size: inherit;
-  line-height: inherit;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+  line-height: 1rem;
 }
 
 button {
