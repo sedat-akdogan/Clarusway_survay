@@ -32,10 +32,7 @@ label {
   margin-bottom: 1rem;
 }
 
-input,
-button,
-select,
-textarea {
+input, button, select, textarea {
   margin: 1;
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.5rem;
