@@ -8,6 +8,10 @@ body {
   position: center;
 }
 
+#form-main {
+  padding-left: 40px;
+}
+
 h1 {
   font-weight: 400;
   color: red;
@@ -47,4 +51,11 @@ button {
 .header {
   padding: 0 0.625rem;
   margin-bottom: 1.875rem;
+}
+
+#submit {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  color: red;
 }
