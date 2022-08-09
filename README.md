@@ -1,1 +1,1 @@
-# Clarusway_survay which was created by using html and css.
+# Clarusway_survay which was created by using html and css. Studied among two days. 
